@@ -1,2 +1,8 @@
 # project_for_excel_Borntodev
-the project for Excel course.  Represent about the Sale Report that within the technique I had learned  by Born To Dev course.
+Project ชิ้นนี้ สร้างขึ้นมาเพื่อจบ "Excel For Everone" Course เรียนของ BornToDev โดยผลงานชิ้นนี้เป็นการประยุกต์ใช้สูตรที่ได้เรียนใน Course ดังกล่าว ซึ่งภายในชิ้นงานประกอบไปด้วย:
+1.ยอดขายรวม รายพื้นที่และรายบุคคล
+2.ยอดค่า Commission พร้อมคำนวณภาษีรายได้
+3.Dashboard นำเสนอข้อมูล
+
+แจ้งเพื่อการพิจารณาอนุมัติผ่าน
+ขอบคุณครับ
